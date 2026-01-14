@@ -3,7 +3,7 @@
     <title>Diary</title>
     <link href="https://lzi62.com/feed.xml" rel="self" />
     <link href="https://lzi62.com" />
-    <updated>2026-01-14T00:46:28+09:00</updated>
+    <updated>2026-01-14T11:59:56+09:00</updated>
     <author>
         <name>lizzi</name>
     </author>
@@ -39,16 +39,28 @@
 <p> </p>
 <p> </p>
 <div style="display: flex; gap: 10px; justify-content: space-between; margin-bottom: 20px;">
-<div style="flex: 1;"><img loading="lazy" style="width: 100%; height: 350px; object-fit: cover; border-radius: 4px;" src="https://lzi62.com/media/posts/1/20251220_150526.jpg" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lzi62.com/media/posts/1/responsive/20251220_150526-xs.jpg 640w ,https://lzi62.com/media/posts/1/responsive/20251220_150526-sm.jpg 768w ,https://lzi62.com/media/posts/1/responsive/20251220_150526-md.jpg 1024w ,https://lzi62.com/media/posts/1/responsive/20251220_150526-lg.jpg 1366w ,https://lzi62.com/media/posts/1/responsive/20251220_150526-xl.jpg 1600w ,https://lzi62.com/media/posts/1/responsive/20251220_150526-2xl.jpg 1920w"></div>
-<div style="flex: 1;"><img loading="lazy" style="width: 100%; height: 350px; object-fit: cover; border-radius: 4px;" src="https://lzi62.com/media/posts/1/1.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lzi62.com/media/posts/1/responsive/1-xs.png 640w ,https://lzi62.com/media/posts/1/responsive/1-sm.png 768w ,https://lzi62.com/media/posts/1/responsive/1-md.png 1024w ,https://lzi62.com/media/posts/1/responsive/1-lg.png 1366w ,https://lzi62.com/media/posts/1/responsive/1-xl.png 1600w ,https://lzi62.com/media/posts/1/responsive/1-2xl.png 1920w"></div>
+<div style="flex: 1;">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lzi62.com/media/posts/1/gallery/20251220_150526.jpg" data-size="271x300"><img loading="lazy" src="https://lzi62.com/media/posts/1/gallery/20251220_150526-thumbnail.jpg" alt="" width="271" height="300"></a></figure>
+</div></div>
+</div>
+<div style="flex: 1;">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lzi62.com/media/posts/1/gallery/1.png" data-size="345x300"><img loading="lazy" src="https://lzi62.com/media/posts/1/gallery/1-thumbnail.png" alt="" width="345" height="300"></a></figure>
+</div></div>
+</div>
 </div>
 <p>고죠 사토루가 200% 무라사키 날린 시부야 스트림 빌딩. 인터넷에 검색하면 무라사키 날린 곳 시부야 스카이라고 나오던데 저렇게 오밀조밀 생긴 곳은 구글 로고 박힌 스트림 빌딩이었다.</p>
 <p> </p>
 <p> </p>
-<p> </p>
 <div style="display: flex; gap: 10px; justify-content: space-between; margin-bottom: 20px;">
-<div style="flex: 1;"><img loading="lazy" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" src="https://lzi62.com/media/posts/1/20251220_123026.jpg" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lzi62.com/media/posts/1/responsive/20251220_123026-xs.jpg 640w ,https://lzi62.com/media/posts/1/responsive/20251220_123026-sm.jpg 768w ,https://lzi62.com/media/posts/1/responsive/20251220_123026-md.jpg 1024w ,https://lzi62.com/media/posts/1/responsive/20251220_123026-lg.jpg 1366w ,https://lzi62.com/media/posts/1/responsive/20251220_123026-xl.jpg 1600w ,https://lzi62.com/media/posts/1/responsive/20251220_123026-2xl.jpg 1920w"></div>
-<div style="flex: 1;"><img loading="lazy" style="width: 100%; height: 400px; object-fit: cover; border-radius: 4px;" src="https://lzi62.com/media/posts/1/2.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://lzi62.com/media/posts/1/responsive/2-xs.png 640w ,https://lzi62.com/media/posts/1/responsive/2-sm.png 768w ,https://lzi62.com/media/posts/1/responsive/2-md.png 1024w ,https://lzi62.com/media/posts/1/responsive/2-lg.png 1366w ,https://lzi62.com/media/posts/1/responsive/2-xl.png 1600w ,https://lzi62.com/media/posts/1/responsive/2-2xl.png 1920w"></div>
+<div style="flex: 1;">
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://lzi62.com/media/posts/1/gallery/20251220_123026-2.jpg" data-size="233x300"><img loading="lazy" src="https://lzi62.com/media/posts/1/gallery/20251220_123026-2-thumbnail.jpg" alt="" width="233" height="300"></a></figure>
+<figure class="gallery__item"><a href="https://lzi62.com/media/posts/1/gallery/2.png" data-size="341x300"><img loading="lazy" src="https://lzi62.com/media/posts/1/gallery/2-thumbnail.png" alt="" width="341" height="300"></a></figure>
+</div></div>
+</div>
+<div style="flex: 1;"> </div>
 </div>
 <p>신주쿠역에서 걸어서 10분 가량이지만 라멘 먹느라 반대 방향으로 갔기 때문에 25~30분쯤 걸어서 도착할 수 있었다.</p>
 <p> </p>
