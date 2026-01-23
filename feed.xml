@@ -3,7 +3,7 @@
     <title>Diary</title>
     <link href="https://lzi62.com/feed.xml" rel="self" />
     <link href="https://lzi62.com" />
-    <updated>2026-01-23T17:24:57+09:00</updated>
+    <updated>2026-01-23T17:41:44+09:00</updated>
     <author>
         <name>리지</name>
     </author>
@@ -60,6 +60,8 @@
 <p> </p>
 <p>+ ads.txt 찾을 수 없음 뜰 경우</p>
 <p>Publii는 정적인 사이트이기 때문에 따로 만들어 줘야 한다. 왼쪽 광고 탭으로 들어가 애드센스 코드 복사한 후 메모장에 붙여넣고 ads.txt로 저장, 내 문서(Documents) &gt; Publii &gt; sites &gt; [본인 사이트 이름] &gt; input 폴더에 넣어주고 다시 싱크. 위의 themes 폴더와 다른 것 주의!</p>
+<figure class="post__image"><img loading="lazy"  src="https://lzi62.com/media/posts/7/10-2.png" alt="" width="707" height="196" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://lzi62.com/media/posts/7/responsive/10-2-xs.png 320w ,https://lzi62.com/media/posts/7/responsive/10-2-sm.png 480w ,https://lzi62.com/media/posts/7/responsive/10-2-md.png 768w ,https://lzi62.com/media/posts/7/responsive/10-2-xl.png 1024w"></figure>
+<p>싱크 마친 내 블로그에서 F12 &gt; Elements &gt; Ctrl R &gt; adsbygoogle 가 있으면 제대로 된 것이니 안심하고 애드센스가 등록되길 기다리면 된다.</p>
             ]]>
         </content>
     </entry>
