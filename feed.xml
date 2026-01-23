@@ -3,7 +3,7 @@
     <title>Diary</title>
     <link href="https://lzi62.com/feed.xml" rel="self" />
     <link href="https://lzi62.com" />
-    <updated>2026-01-23T17:15:07+09:00</updated>
+    <updated>2026-01-23T17:21:34+09:00</updated>
     <author>
         <name>리지</name>
     </author>
@@ -54,6 +54,11 @@
 <figure class="post__image"><img loading="lazy"  src="https://lzi62.com/media/posts/7/8.png" alt="" width="640" height="372" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://lzi62.com/media/posts/7/responsive/8-xs.png 320w ,https://lzi62.com/media/posts/7/responsive/8-sm.png 480w ,https://lzi62.com/media/posts/7/responsive/8-md.png 768w ,https://lzi62.com/media/posts/7/responsive/8-xl.png 1024w"></figure>
 <p>세 번째 동의 메시지는 쿠키 허용 메시지를 어떻게 띄울까 묻는 거다. 다른 프로그램을 쓰지 않는다면 첫 번째 누르면 된다.</p>
 <figure class="post__image"><img loading="lazy"  src="https://lzi62.com/media/posts/7/9.png" alt="" width="1190" height="506" sizes="(min-width: 760px) 660px, calc(93.18vw - 30px)" srcset="https://lzi62.com/media/posts/7/responsive/9-xs.png 320w ,https://lzi62.com/media/posts/7/responsive/9-sm.png 480w ,https://lzi62.com/media/posts/7/responsive/9-md.png 768w ,https://lzi62.com/media/posts/7/responsive/9-xl.png 1024w"></figure>
+<p>준비 중 뜨면 신청 완료!</p>
+<p>재작년에 워드프레스 호스팅까지 해서 하다 말았는데 이번엔 꾸준히 해야지 파이팅&gt;&lt;</p>
+<p> </p>
+<p>+ ads.txt 찾을 수 없음 뜰 경우</p>
+<p>Publii는 정적인 사이트이기 때문에 따로 만들어 줘야 한다. 왼쪽 광고 탭으로 들어가 애드센스 코드 복사한 후 메모장에 붙여넣고 ads.txt로 저장, 내 문서(Documents) &gt; Publii &gt; sites &gt; [본인 사이트 이름] &gt; input 폴더에 넣어주고 다시 싱크. 위의 themes 폴더와 다른 것 주의!</p>
             ]]>
         </content>
     </entry>
