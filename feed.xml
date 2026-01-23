@@ -3,7 +3,7 @@
     <title>Diary</title>
     <link href="https://lzi62.com/feed.xml" rel="self" />
     <link href="https://lzi62.com" />
-    <updated>2026-01-23T22:26:53+09:00</updated>
+    <updated>2026-01-23T22:28:05+09:00</updated>
     <author>
         <name>리지</name>
     </author>
@@ -481,16 +481,19 @@
         </author>
         <link href="https://lzi62.com/gojyo-sommungci-sasseogreaterless.html"/>
         <id>https://lzi62.com/gojyo-sommungci-sasseogreaterless.html</id>
+        <media:content url="https://lzi62.com/media/posts/9/10-2.jpg" medium="image" />
             <category term="주술회전"/>
 
         <updated>2021-02-04T22:11:00+09:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://lzi62.com/media/posts/9/10-2.jpg" alt="" />
                     (예전 블로그에 썼던 글 옮김) 몇 년 전에 솜뭉치에 백 단위 탕진하고&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://lzi62.com/media/posts/9/10-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>(예전 블로그에 썼던 글 옮김)</p>
 <p> </p>
 <p>몇 년 전에 솜뭉치에 백 단위 탕진하고 인형 쪽은 다시는 발들이지 말아야지 다짐했는데… 샀다… 두 개나… 지나치게 귀여워서 어쩔 수 없었어 보자마자 반해서ㅠㅠㅠㅠㅠㅠ 사랑해행복해</p>
