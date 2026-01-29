@@ -3,7 +3,7 @@
     <title>Diary</title>
     <link href="https://lzi62.com/feed.xml" rel="self" />
     <link href="https://lzi62.com" />
-    <updated>2026-01-29T21:12:24+09:00</updated>
+    <updated>2026-01-29T21:15:10+09:00</updated>
     <author>
         <name>리지</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://lzi62.com/baegopaseo-ramyeon-ggeulhyeossdafeat-yeolramyeon.html"/>
         <id>https://lzi62.com/baegopaseo-ramyeon-ggeulhyeossdafeat-yeolramyeon.html</id>
+            <category term="일상"/>
 
         <updated>2026-01-29T21:01:15+09:00</updated>
             <summary type="html">
@@ -551,6 +552,7 @@
         </author>
         <link href="https://lzi62.com/gentlemonster-midnight-sun.html"/>
         <id>https://lzi62.com/gentlemonster-midnight-sun.html</id>
+            <category term="주술회전"/>
 
         <updated>2021-02-05T22:04:00+09:00</updated>
             <summary type="html">
